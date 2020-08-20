@@ -9,7 +9,7 @@
     "seeds": "node seed/usuario-seeder.js && node seed/conta-seeder.js && node seed/favorecido-seeder.js && node seed/extrato-seeder.js"
   },
   "dependencies": {
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "consign": "^0.1.6",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.5",
